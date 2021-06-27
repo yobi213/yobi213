@@ -1,8 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hello 안녕하세요
 
-
-### 👋 I'm yobi. I am a Machine Learning Engineer
-- working at LINA Korea, a Cigna Company.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  Hi, There. I'm yobi. 
+- Machine Learning Engineer.
+- Working at LINA Korea, a Cigna Company.
 
 
 
